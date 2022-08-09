@@ -5,7 +5,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <div claaName="container">
+      <div className="container">
         <Weather />
         <footer>
           This project was coded by{" "}
