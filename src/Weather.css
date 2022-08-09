@@ -1,0 +1,40 @@
+.Weather {
+  border: 3px solid black;
+  border-radius: 20px;
+  height: 350px;
+  padding: 30px;
+  font-family: "Abel", sans-serif;
+}
+
+.Weather .weather-image,
+h1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.Weather h1 {
+  font-size: 40px;
+}
+.Weather .weather-image {
+  font-size: 35px;
+}
+
+.Weather ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Weather .form-control {
+  color: white;
+  background: black;
+  border: 2px solid black;
+}
+.Weather .btn {
+  color: white;
+  background: black;
+  border: 2px solid black;
+}
+.Weather .btn:hover {
+  transition: all 300ms ease;
+  color: black;
+  background: white;
+}
