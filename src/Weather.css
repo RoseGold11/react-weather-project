@@ -8,8 +8,8 @@
 
 .Weather .weather-image,
 h1 {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 .Weather h1 {
   font-size: 40px;
