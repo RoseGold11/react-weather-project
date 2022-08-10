@@ -6,7 +6,7 @@
   font-family: "Abel", sans-serif;
 }
 
-.Weather .weather-image,
+.Weather .current-weather,
 h1 {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -14,7 +14,12 @@ h1 {
 .Weather h1 {
   font-size: 40px;
 }
-.Weather .weather-image {
+
+.Weather .weather-icon {
+  padding: 0;
+  width: 70px;
+}
+.Weather .visual-temperature {
   font-size: 35px;
 }
 
