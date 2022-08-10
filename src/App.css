@@ -14,5 +14,5 @@
 }
 .App a:hover {
   transition: all 300ms ease;
-  color: green;
+  color: rgb(92, 205, 201);
 }
